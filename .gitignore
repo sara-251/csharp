@@ -1,0 +1,16 @@
+.vs/
+bin/
+obj/
+<<<<<<< HEAD
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+=======
+<<<<<<< HEAD
+*.user
+*.suo
+=======
+*.user
+>>>>>>> 788e4d205dfe8872f677566d27bfa44190836b25
+>>>>>>> 90faddf65ac5f501373dd48f1ddfe9b6bdd4e31b
